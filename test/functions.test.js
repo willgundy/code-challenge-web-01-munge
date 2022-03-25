@@ -188,7 +188,7 @@ test('should return sum of ages', (expect) => {
 });
 
 
-test('should return an count object', (expect) => {
+skip('should return an count object', (expect) => {
     const expected = {
         car: 3,
         truck: 2,
